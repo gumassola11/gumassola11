@@ -1,4 +1,4 @@
-- 👋 opa me chamo @gumassola11
+- 👋 opa me chamo **@gumassola11**
 - Meu email de contato é gustavomassola@escola.pr.gov.br.
 - 👀 estou interessado em aprender a programar novas linguagens.
 - 🌱 estou aprendendo a programar recentemente a linguagem do JavasScript e Scratch
